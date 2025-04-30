@@ -434,6 +434,8 @@
 "Assets/Scripts/Instructions.cs"
 "Assets/Scripts/Mover.cs"
 "Assets/Scripts/ObjectHit.cs"
+"Assets/Scripts/Score.cs"
+"Assets/Scripts/Spawner.cs"
 "Assets/Scripts/Test.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
