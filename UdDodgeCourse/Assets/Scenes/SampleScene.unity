@@ -1503,7 +1503,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 4ac6f7e729744a24aac2d792019f7835, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1592,9 +1592,11 @@ MonoBehaviour:
   spherePrefab: {fileID: 6425308918473123221, guid: 85605cc9b1af33d48849ebcc17bf1ce9, type: 3}
   rampTransform: {fileID: 903384127}
   rampTransformTwo: {fileID: 1818788315}
-  spawnInterval: 2
+  spawnInterval: 1
   spawnHeight: 10
   spawnRangeX: 20
+  spawnRangeXTwo: 10
+  destroySphere: 10
 --- !u!4 &1033580533
 Transform:
   m_ObjectHideFlags: 0
@@ -1783,7 +1785,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 4ac6f7e729744a24aac2d792019f7835, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2098,7 +2100,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 4ac6f7e729744a24aac2d792019f7835, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2420,7 +2422,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 4ac6f7e729744a24aac2d792019f7835, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
