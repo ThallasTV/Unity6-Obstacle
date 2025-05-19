@@ -7,8 +7,8 @@ public class Spawner : MonoBehaviour
     [SerializeField] private Transform rampTransformTwo; // Reference to the ramp object
     [SerializeField] private float spawnInterval = 2f; // Time interval between spawns
     [SerializeField] private float spawnHeight = 5f; // Height above the ramp to spawn spheres
-    [SerializeField] private float spawnRangeX = 10f; // Range along the X-axis for spawning
-    [SerializeField] private float spawnRangeXTwo = 10f; // Range along the X-axis for spawning
+    [SerializeField] private float spawnRangeX = 40f; // Range along the X-axis for spawning
+    [SerializeField] private float spawnRangeXTwo = 40f; // Range along the X-axis for spawning
     [SerializeField] private float destroySphere = 10f; // Time before destroying the sphere
 
     private float timer;

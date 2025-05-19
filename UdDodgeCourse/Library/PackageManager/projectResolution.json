@@ -79,6 +79,16 @@
       "source": "builtin",
       "testable": false
     },
+    "com.unity.probuilder@6.0.5": {
+      "name": "com.unity.probuilder",
+      "displayName": "ProBuilder",
+      "resolvedPath": "C:\\Users\\RaffP\\Documents\\GitHub\\Unity6-Obstacle\\UdDodgeCourse\\Library\\PackageCache\\com.unity.probuilder@b55f3ad2afd2",
+      "fingerprint": "b55f3ad2afd2f5505e0e532971da5bb5a17f128f",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "6.0.5",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.render-pipelines.universal@17.1.0": {
       "name": "com.unity.render-pipelines.universal",
       "displayName": "Universal Render Pipeline",
@@ -441,6 +451,16 @@
       "source": "builtin",
       "testable": false
     },
+    "com.unity.settings-manager@2.1.0": {
+      "name": "com.unity.settings-manager",
+      "displayName": "Settings Manager",
+      "resolvedPath": "C:\\Users\\RaffP\\Documents\\GitHub\\Unity6-Obstacle\\UdDodgeCourse\\Library\\PackageCache\\com.unity.settings-manager@41738c275190",
+      "fingerprint": "41738c27519039c335849eb78949382f4d7a3544",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "2.1.0",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.splines@2.8.0": {
       "name": "com.unity.splines",
       "displayName": "Splines",
@@ -499,16 +519,6 @@
       "editorCompatibility": "2023.3.0b1",
       "version": "1.0.1",
       "source": "builtin",
-      "testable": false
-    },
-    "com.unity.settings-manager@2.1.0": {
-      "name": "com.unity.settings-manager",
-      "displayName": "Settings Manager",
-      "resolvedPath": "C:\\Users\\RaffP\\Documents\\GitHub\\Unity6-Obstacle\\UdDodgeCourse\\Library\\PackageCache\\com.unity.settings-manager@41738c275190",
-      "fingerprint": "41738c27519039c335849eb78949382f4d7a3544",
-      "editorCompatibility": "2022.3.0a1",
-      "version": "2.1.0",
-      "source": "registry",
       "testable": false
     },
     "com.unity.nuget.mono-cecil@1.11.4": {
